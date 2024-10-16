@@ -11,11 +11,11 @@ Imagine this scenario:
 
 This saves time for both ByteWorks and Tesla by cutting through the standard application process and presenting a ready solution.
 
-![Cold Mail Generator]("C:\Users\HP\Downloads\img.png")
+![Cold Mail Generator](C:\Users\HP\Downloads\img.png)
 
 ## **Architecture Diagram**
 
-![Architecture Diagram]("C:\Users\HP\Downloads\architecture.png")
+![Architecture Diagram](C:\Users\HP\Downloads\architecture.png)
 
 ## **Set-up**
 
