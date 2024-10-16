@@ -11,11 +11,11 @@ Imagine this scenario:
 
 This saves time for both ByteWorks and Tesla by cutting through the standard application process and presenting a ready solution.
 
-![img.png](imgs/img.png)
+![img.png](img.png)
 
 ## **Architecture Diagram**
 
-![img.png](imgs/architecture.png)
+![img.png](architecture.png)
 
 ## **Set-up**
 
