@@ -11,7 +11,8 @@ Imagine this scenario:
 
 This saves time for both ByteWorks and Tesla by cutting through the standard application process and presenting a ready solution.
 
-![img.png](img.png)
+![img.png](ss3.png)
+![img.png](ss4.png)
 
 ## **Architecture Diagram**
 
